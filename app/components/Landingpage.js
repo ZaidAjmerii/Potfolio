@@ -19,16 +19,6 @@ export const Navbar = () => {
       <div className="">
 {/* Empty at the mvment, Still in production */}
       </div>
-
-
-      
-
-
-
-
-
-
-
     </div>
   )
 }

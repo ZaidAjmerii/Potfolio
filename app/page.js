@@ -1,8 +1,8 @@
 import Image from "next/image";
 import { Navbar } from "./components/Landingpage";
 import { Hero } from "./components/Hero";
-import FlareCursor from "./components/cursor";
-import { Footer } from "./components/footer";
+import FlareCursor from "./components/Cursor";
+import { Footer } from "./components/Footer";
 
 
 export default function Home() {
