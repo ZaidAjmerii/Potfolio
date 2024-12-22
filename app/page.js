@@ -7,7 +7,7 @@ import { Footer } from "./components/Footer";
 
 export default function Home() {
   return (
-    <div className="home bg-[#2A2323] h-[100vh]">
+    <div className="home bg-[#2A2323] h-[100vh] absolute">
     <FlareCursor />
     <Navbar />
     <Hero />
